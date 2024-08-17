@@ -1,0 +1,13 @@
+{
+  "folders": [
+    {
+      "path": "."
+    },
+    {
+      "path": "../../../../Downloads/Ny mappe (7)/bootstrap-restaurant-template"
+    }
+  ],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "bootstrap-restaurant-template"
+  }
+}
